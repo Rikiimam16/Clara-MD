@@ -2,33 +2,33 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 // Apikey 
-global.apikeys = 'Apikeylu'
+global.apikeys = 'https://api.xyroinee.xyz': '6g9sNXE7ou'
 // Note: Kalau Lu Gada Apikeynya Daftar Dulu Biar Semua Fiturnya Aktif, Webnya Di Bawah Ya
 // • https://api.xyroinee.xyz
 
 // Info Owner
-global.owner = ['6285760451683']
-global.nomorown = "6285760451683"
-global.ownername = "Xyroınee-ID."
-global.ownerNumber = ["6285760451683@s.whatsapp.net"]
-global.creator = "6285760451683@s.whatsapp.net"
-global.author = "Clara - MD"
+global.owner = ['6289512831977']
+global.nomorown = "6289512831977"
+global.ownername = "Rikzzz."
+global.ownerNumber = ["6289512831977@s.whatsapp.net"]
+global.creator = "6289512831977@s.whatsapp.net"
+global.author = "Rikzzz"
 global.location = "Indonesia"
 
 //Bot Setting
-global.botname = "Clara - MD"
-global.wm = "Follow Instagram: danilelistz02"
-global.packname = "Sticker By"
+global.botname = "Rikz Botz"
+global.wm = "pake aja ya adick²"
+global.packname = "Sticker By Rikz Botz"
 global.prefa = ['','!','.','#','&','`']
 global.hituet = 0
 
 // Social Media
-global.yt = "https://www.youtube.com/@Xyroinee"
-global.gh = "https://github.com/Xyroinee"
-global.ig = "https://instagram.com/danilelistz02"
-global.fb = "https://facebook.com/danilelistz19"
-global.web = "https://api.xyroinee.xyz"
-global.gcwa = "https://chat.whatsapp.com/LAWdMIQri9SKee5kqmISH0"
+global.yt = "https://www.youtube.com/@rikiimamuddin"
+global.gh = "https://github.com/rikiimam16"
+global.ig = "https://instagram.com/rikiimam16"
+global.fb = "-"
+global.web = "-"
+global.gcwa = "https://chat.whatsapp.com/EjMKlUNpEXP4Y5dB5dmVOe"
 
 // Foto Bot
 global.thumb = fs.readFileSync("./media/clara.jpg")
