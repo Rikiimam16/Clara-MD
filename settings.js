@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 // Apikey 
-global.apikeys = 'https://api.xyroinee.xyz': '6g9sNXE7ou'
+global.apikeys = '6g9sNXE7ou'
 // Note: Kalau Lu Gada Apikeynya Daftar Dulu Biar Semua Fiturnya Aktif, Webnya Di Bawah Ya
 // • https://api.xyroinee.xyz
 
